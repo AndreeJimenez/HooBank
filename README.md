@@ -10,4 +10,4 @@ This project was created as a way to experiment with modern web development tech
 * Vite.js
 
 <h3> Credits </h3>
-This Landing page project was guided by [JS Mastery](https://jsmastery.pro/) tutorials
+This Landing page project was guided by https://jsmastery.pro/ tutorials
